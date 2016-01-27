@@ -1,6 +1,6 @@
 {
   "name": "grunt-svgmin",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Minify SVG",
   "keywords": [
     "gruntplugin",
@@ -24,8 +24,8 @@
     "chalk": "^1.0.0",
     "each-async": "^1.0.0",
     "log-symbols": "^1.0.0",
-    "pretty-bytes": "^2.0.1",
-    "svgo": "https://github.com/CandoImage/svgo#9394a1dcb"
+    "pretty-bytes": "^3.0.0",
+    "svgo": "https://github.com/CandoImage/svgo#933cfa0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
